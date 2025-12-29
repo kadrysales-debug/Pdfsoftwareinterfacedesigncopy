@@ -1,1 +1,11 @@
-# repo-template
+
+  # PDF Software Interface Design (Copy)
+
+  This is a code bundle for PDF Software Interface Design (Copy). The original project is available at https://www.figma.com/design/ynFyTJtd0EK6ICMlqATBoF/PDF-Software-Interface-Design--Copy-.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
